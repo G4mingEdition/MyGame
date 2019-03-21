@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1519660546 source:d:\onedrive\personnel\onedrive\cb\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1519677234 d:\onedrive\personnel\onedrive\cb\librairies\mygames\mygames.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1519660962 source:d:\onedrive\personnel\onedrive\cb\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1519629345 source:d:\onedrive\personnel\onedrive\cb\librairies\mygames\interface_functions.c
+	"mygames.h"
+
+1519660932 source:d:\onedrive\personnel\onedrive\cb\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1519585145 source:c:\users\chris\onedrive\cb\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1519598843 c:\users\chris\onedrive\cb\librairies\mygames\mygames.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1519598235 source:c:\users\chris\onedrive\cb\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1519598906 source:c:\users\chris\onedrive\cb\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1520286275 source:d:\google drive\drive\christopher\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1520362196 d:\google drive\drive\christopher\librairies\mygames\mygames.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1520286219 source:d:\google drive\drive\christopher\librairies\mygames\interface_functions.c
+	"mygames.h"
+
+1520286297 source:d:\google drive\drive\christopher\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1520336423 source:d:\google drive\drive\christopher\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1520286275 source:c:\program files\google drive\drive\christopher\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1520408903 c:\program files\google drive\drive\christopher\librairies\mygames\mygames.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1520286219 source:c:\program files\google drive\drive\christopher\librairies\mygames\interface_functions.c
+	"mygames.h"
+
+1520286297 source:c:\program files\google drive\drive\christopher\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1520336423 source:c:\program files\google drive\drive\christopher\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1520341705 source:c:\program files\google drive\drive\christopher\librairies\mygames\random_functions.c
+	"mygames.h"
+
+1520410774 source:c:\program files\google drive\drive\christopher\librairies\mygames\account_functions.c
+	"mygames.h"
+
+1520341477 source:d:\google drive\drive\christopher\librairies\mygames\random_functions.c
+	"mygames.h"
+
+1520359456 source:d:\google drive\drive\christopher\librairies\mygames\account_functions.c
+	"mygames.h"
+
+1520968319 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\account_functions.c
+	"mygames.h"
+
+1521010942 c:\program files\google drive\drive\christopher\cb\librairies\mygames\mygames.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1521010765 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1521010915 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1520935028 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\interface_functions.c
+	"mygames.h"
+
+1520947562 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1520838369 source:c:\program files\google drive\drive\christopher\cb\librairies\mygames\random_functions.c
+	"mygames.h"
+
+1520968319 source:d:\google drive\drive\christopher\cb\librairies\mygames\account_functions.c
+	"mygames.h"
+
+1521014542 d:\google drive\drive\christopher\cb\librairies\mygames\mygames.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conioplus.h>
+
+1521014365 source:d:\google drive\drive\christopher\cb\librairies\mygames\experience_functions.c
+	"mygames.h"
+
+1521014515 source:d:\google drive\drive\christopher\cb\librairies\mygames\health_functions.c
+	"mygames.h"
+
+1520938628 source:d:\google drive\drive\christopher\cb\librairies\mygames\interface_functions.c
+	"mygames.h"
+
+1520951162 source:d:\google drive\drive\christopher\cb\librairies\mygames\loading_functions.c
+	"mygames.h"
+
+1520841969 source:d:\google drive\drive\christopher\cb\librairies\mygames\random_functions.c
+	"mygames.h"
+
